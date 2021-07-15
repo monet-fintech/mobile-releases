@@ -3,14 +3,14 @@
     <channel>
         <title>Monet - Salario al instante</title>
         <item>
-            <title>Version 2.0.0</title>
-            <description>Monet - Salario al instante</description>
-            <pubDate>3 Mayo 2021 00:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/apps/internaltest/4700124757090664229" sparkle:version="2.0.0" sparkle:os="android" />
+            <title>Version 2.1.0</title>
+            <description>Monet - Adelantos al instante</description>
+            <pubDate>14 Julio 2021 00:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/apps/internaltest/4700124757090664229" sparkle:version="2.1.0" sparkle:os="android" />
         </item>
         <item>
             <title>Version 1.4.4</title>
-            <description>Monet - Salario al instante</description>
+            <description>Monet - Adelantos al instante</description>
             <pubDate>19 Marzo 2020 09:32:00 +0000</pubDate>
             <enclosure url="https://beta.itunes.apple.com/v1/app/1514142059" sparkle:version="2.0.0" sparkle:os="ios" />
         </item>
