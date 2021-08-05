@@ -3,16 +3,16 @@
     <channel>
         <title>Monet - Salario al instante</title>
         <item>
-            <title>Version 2.1.3</title>
+            <title>Version 2.1.4</title>
             <description>Monet - Dinero al instante</description>
-            <pubDate>29 Julio 2021 00:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.elefantetech.monetapp" sparkle:version="2.1.3" sparkle:os="android" />
+            <pubDate>5 Agosto 2021 00:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.elefantetech.monetapp" sparkle:version="2.1.4" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 2.1.3</title>
+            <title>Version 2.1.4</title>
             <description>Monet - Dinero al instante</description>
-            <pubDate>30 Julio 2021 00:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/co/app/monet-salario-al-instante/id1514142059" sparkle:version="2.1.3" sparkle:os="ios" />
+            <pubDate>5 Agosto 2021 00:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/co/app/monet-salario-al-instante/id1514142059" sparkle:version="2.1.4" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
