@@ -9,10 +9,10 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.elefantetech.monetapp" sparkle:version="2.5.7" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 2.5.3</title>
+            <title>Version 2.5.4</title>
             <description>Monet - Dinero al instante</description>
-            <pubDate>6 Abril 2022 00:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/co/app/monet-salario-al-instante/id1514142059" sparkle:version="2.5.3" sparkle:os="ios" />
+            <pubDate>20 Abril 2022 00:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/co/app/monet-salario-al-instante/id1514142059" sparkle:version="2.5.4" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
